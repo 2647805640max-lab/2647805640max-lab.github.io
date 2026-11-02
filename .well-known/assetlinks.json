@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.finhub.dashboard",
+    "sha256_cert_fingerprints": ["7F:02:5D:0A:F2:BF:B5:1F:53:E3:F6:BB:98:5D:80:9C:AD:5B:BD:4A:EA:AE:53:89:B2:98:35:A3:E8:37:BF:C6"]
+  }
+}]
